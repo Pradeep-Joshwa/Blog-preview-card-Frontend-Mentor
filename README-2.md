@@ -27,7 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+![static](https://github.com/Pradeep-Joshwa/Blog-preview-card-Frontend-Mentor/assets/100898870/e550f1c1-c330-49c5-8fb2-ab8b094ecf51)
+![clicked](https://github.com/Pradeep-Joshwa/Blog-preview-card-Frontend-Mentor/assets/100898870/d85a5b77-539e-421f-8d03-ef8b57ecc177)
+![active](https://github.com/Pradeep-Joshwa/Blog-preview-card-Frontend-Mentor/assets/100898870/ff4e90b5-60cf-4605-a8a9-01b53ee99fa5)
+![mobile](https://github.com/Pradeep-Joshwa/Blog-preview-card-Frontend-Mentor/assets/100898870/08365a77-c5a3-40a5-b87a-ee7943bb524a)
 
 
 
