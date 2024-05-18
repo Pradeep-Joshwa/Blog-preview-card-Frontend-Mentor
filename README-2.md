@@ -38,8 +38,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [[Add live site URL here](https://your-live-site-url.com)
+](https://66487bb67c57cab2b9ac9315--blog-preview-card-by-pradeepjoshwa.netlify.app/)
 ## My process
 
 ### Built with
