@@ -1,0 +1,164 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Figtree;
+}
+
+body{
+    background-color: hsl(47, 88%, 63%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+
+
+.card{
+
+   
+    width: 350px;
+    height: fit-content;
+    outline: 1px solid black;
+    padding: 1.5rem;
+
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: .5em .5em ;
+   
+}
+img{
+    border-radius: .6rem;
+    width: 300px;
+}
+.card .image{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.card .bottom{
+    width: 298px;
+   
+    font-size: 16px;
+}
+
+.card .tag{
+   
+    background-color: hsl(47, 88%, 63%);
+    width:fit-content;
+    padding: 5px 10px;
+    border-radius:.3em;
+    margin-bottom: .8rem;cursor: pointer ;
+}
+
+span{
+    font-weight: 800;
+}
+
+.card .date{
+    
+    font-weight: 500;
+    margin-bottom: .8rem;
+}
+
+.card .title{
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: .8rem;
+    cursor: pointer ;
+    
+
+}
+
+.card .para{
+    line-height: 25px;
+    margin-bottom: .8rem;
+    color: hsl(0, 0%, 50%);
+}
+
+.card .auth img{
+    position: absolute;
+    width: 30px;cursor: pointer ;
+    
+}
+
+.card .auth p {
+   position: relative;
+   margin-left: 2.2rem;
+   bottom: -7px;font-size: 16px;
+   font-weight: 800;cursor: pointer ;
+  
+   
+}
+
+.auth{
+    margin-bottom: .8rem;
+}
+
+
+.card .title:active{
+    color: hsl(47, 88%, 63%);
+    
+
+}
+
+.tag:hover{
+    box-shadow: 2px 2px ;
+}
+
+.tag:active{
+    background-color: hsl(47, 88%, 53%) ;
+}
+
+.auth:active{
+    color: gray;
+}
+
+
+@media (max-width: 1440px) {
+    .card {
+        max-width: 600px;
+    }
+}
+
+@media (max-width: 768px) {
+    .card {
+        padding: 1.6rem;
+        
+     
+    }
+
+    .card .title {
+        font-size: 20px;
+    }
+
+    .card .para {
+        line-height: 22px;
+    }
+}
+
+@media (max-width: 375px) {
+    .card {
+        padding: 1.5rem;
+        max-width :300px; 
+    }
+
+    .card .title {
+        font-size: 18px;
+    }
+
+    img{
+        max-width :250px; 
+    }
+
+    .card .para {
+        line-height: 20px;
+        max-width :280px; 
+    }
+}
