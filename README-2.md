@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-pradeep-joshwa-GIEuxtLzy4)
-- Live Site URL: [Add live site URL here](https://66487bb67c57cab2b9ac9315--blog-preview-card-by-pradeepjoshwa.netlify.app/)
+- Solution URL: [Click Here!](https://www.frontendmentor.io/solutions/blog-preview-card-pradeep-joshwa-GIEuxtLzy4)
+- Live Site URL: [Click Here!](https://66487bb67c57cab2b9ac9315--blog-preview-card-by-pradeepjoshwa.netlify.app/)
 
 ## My process
 
